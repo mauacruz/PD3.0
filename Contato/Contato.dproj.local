@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/28 17:39:06.000.237,=C:\Projetos\Unit1.pas</Transaction>
+    <Transaction>2020/09/28 17:39:11.000.556,=C:\Projetos\Unit2.pas</Transaction>
+    <Transaction>2020/09/28 17:47:09.000.137,C:\Projetos\PD3.0\Contato\uWebContato.dfm=C:\Projetos\Unit2.dfm</Transaction>
+    <Transaction>2020/09/28 17:47:09.000.137,C:\Projetos\PD3.0\Contato\uWebContato.pas=C:\Projetos\Unit2.pas</Transaction>
+    <Transaction>2020/09/28 17:47:41.000.232,C:\Projetos\PD3.0\Contato\uContatoController.pas=C:\Projetos\Unit1.pas</Transaction>
+    <Transaction>2020/09/28 17:48:01.000.497,C:\Projetos\PD3.0\Contato\Contato.dproj=C:\Projetos\Project1.dproj</Transaction>
+    <Transaction>2020/09/29 20:53:25.000.816,=C:\Projetos\PD3.0\Contato\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
