@@ -1,0 +1,6 @@
+Vamos lá
+História:  Eu, como cliente de vocês, espero receber um URL onde eu possa consultar, incluir, alterar e deletar meus contatos utilizando o REST Debugger do Delphi. 
+
+Meus contatos podem possuir mais de um endereço e cada um desses endereços possui um classificador, como comercial, de entrega, financeiro, residencial. 
+
+Para deixar claro a estrutura dos meus contatos, segue uma imagem ilustrativa
